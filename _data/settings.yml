@@ -16,7 +16,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'linkedin-in', link: 'www.linkedin.com/in/roberto-carcache-flores-05b5711a6'}
+- {icon: 'linkedin', link: 'www.linkedin.com/in/roberto-carcache-flores-05b5711a6'}
 - {icon: 'envelope', link: 'mailto:rcarcacheflores@outlook.com'}
 
 
