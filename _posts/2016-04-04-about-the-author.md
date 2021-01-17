@@ -4,7 +4,7 @@ title: "Sobre este curso"
 author: "Roberto Carcache"
 categories: facts
 tags: [sample]
-image: cuba-4.jpg
+image: warning.jpg
 ---
 
 Coming soon..
