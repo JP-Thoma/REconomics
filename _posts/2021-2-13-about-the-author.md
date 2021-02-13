@@ -31,7 +31,7 @@ Estudiantes activos: $25
 Profesionales: $30
 
 ## Información sobre la inscripción:
-Para realizar tu preinscripción favor llenar este [formulario](https://forms.gle/DyDijSBqv3Sv9Q9M8)
+Para realizar tu preinscripción favor llenar este [formulario](https://forms.gle/7mRnh42AYDZLZDUm6)
 
 Fecha límite para preinscribir: 21/2/2021
 
