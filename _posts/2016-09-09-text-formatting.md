@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Text Formatting"
-author: "Paul Le"
+title: "Semana 1"
+author: "Roberto Carcache Flores "
 categories: sample
 tags: [sample]
-image: arctic-1.jpg
+image: week.jpg
 ---
+
+Aquí aparecerá el contenido de la semana 1 
 
 # Markdown Support
 
