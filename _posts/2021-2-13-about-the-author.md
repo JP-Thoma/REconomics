@@ -27,6 +27,7 @@ El curso se llevará a cabo en cuatro clases sincrónicas con Zoom durante cada 
 
 ## Inversión (USD): 
 Estudiantes activos: $25
+
 Profesionales: $30
 
 ## Información sobre la inscripción:
