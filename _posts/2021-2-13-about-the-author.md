@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sobre este curso"
-author: "Roberto Carcache"
+author: "Roberto Carcache Flores"
 categories: facts
 tags: [sample]
 image: warning.jpg
