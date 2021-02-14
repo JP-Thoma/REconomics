@@ -7,7 +7,6 @@ tags: [sample]
 image: week.jpg
 ---
 
-## Semana 1 
 
 **Aquí aparecerá el contenido y el proyecto de la semana 1...**
 
