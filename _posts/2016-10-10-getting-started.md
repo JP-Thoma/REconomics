@@ -6,7 +6,6 @@ categories: documentation
 tags: [documentation,sample]
 image: week.jpg
 ---
+ 
 
-# Semana 2 
-
-Aquí aparecerá el contenido de la Semana 2 
+**Aquí aparecerá el contenido y el proyecto de la Semana 2** 
